@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="prominent_threshold">15dp</dimen>
+    <dimen name="gradient_width">10dp</dimen>
+    <dimen name="rounded_corners_radius">10dp</dimen>
+    <dimen name="carousel_spacing">10dp</dimen>
+</resources>
